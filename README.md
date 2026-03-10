@@ -25,9 +25,10 @@ Built on Google AI Studio, it requires no local infrastructure — just a Gemini
 
 | Component | Technology |
 |---|---|
-| AI Engine | Google Gemini (via AI Studio) |
-| Blockchain Data | Bitcoin on-chain data via public APIs |
-| Interface | Google AI Studio prompt environment |
+| AI Engine | Google Gemini API |
+| Frontend | Web app (exported from Google AI Studio) |
+| Runtime | Node.js |
+| Blockchain Data | Bitcoin on-chain data via public APIs (https://mempool.space/)|
 
 ---
 
