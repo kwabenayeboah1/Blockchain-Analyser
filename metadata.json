@@ -1,0 +1,5 @@
+{
+  "name": "Blockchain Analytics - Blockchain Explorer",
+  "description": "An advanced Bitcoin transaction visualizer and explorer using Gemini for intelligence and D3.js for interactive relationship mapping. Trace wallet flows, analyze script types, and detect patterns.",
+  "requestFramePermissions": []
+}
