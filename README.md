@@ -51,18 +51,21 @@ Built on Google AI Studio, it requires no local infrastructure — just a Gemini
    ```bash
    npm install
    ```
-
-3. Set your Gemini API key in `.env.local`:
+   
+3. Create a file named `.env.local` in the root of the project and add your Gemini API key:
+   GEMINI_API_KEY=your_api_key_here
+   
+4. Set your Gemini API key in `.env.local`:
    ```
    GEMINI_API_KEY=your_api_key_here
    ```
 
-4. Run the app:
+5. Run the app:
    ```bash
    npm run dev
    ```
 
-5. Start analysing — paste a Bitcoin address or transaction ID to begin. You can use https://mempool.space/ to find a Tx ID to investigate.
+6. Start analysing — paste a Bitcoin address or transaction ID to begin. You can use https://mempool.space/ to find a Tx ID to investigate.
 
 ---
 
