@@ -1,5 +1,5 @@
 # ₿ Bitcoin Blockchain Analyser
-
+![Bitcoin](https://www.pwc.com/us/en/industries/financial-services/images/blockchain.svg)
 > AI-powered Bitcoin blockchain analysis tool for transaction tracing, address clustering, on-chain metrics, and forensic investigation — built with Google AI Studio (Gemini).
 
 ---
