@@ -42,7 +42,7 @@ Built on Google AI Studio, it requires no local infrastructure — just a Gemini
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/bitcoin-blockchain-analyser.git
+   git clone https://github.com/kwabenayeboah1/Blockchain-Analyser.git
    cd bitcoin-blockchain-analyser
    ```
 
