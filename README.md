@@ -1,5 +1,5 @@
 # ₿ Bitcoin Blockchain Analyser
-![Bitcoin](https://www.pwc.com/us/en/industries/financial-services/images/blockchain.svg)
+![How Blockchain works](https://www.pwc.com/us/en/industries/financial-services/images/blockchain.svg)
 > AI-powered Bitcoin blockchain analysis tool for transaction tracing, address clustering, on-chain metrics, and forensic investigation — built with Google AI Studio (Gemini).
 
 ---
@@ -61,7 +61,7 @@ Built on Google AI Studio, it requires no local infrastructure — just a Gemini
    npm run dev
    ```
 
-5. Start analysing — paste a Bitcoin address or transaction ID to begin.
+5. Start analysing — paste a Bitcoin address or transaction ID to begin. You can use https://mempool.space/ to find a Tx ID to investigate.
 
 ---
 
