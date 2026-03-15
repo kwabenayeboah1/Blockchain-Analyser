@@ -79,7 +79,17 @@ Built on Google AI Studio, it requires no local infrastructure — just a Gemini
 
 ## 💡 Console Preview
 
-- **Main Window** Wallet Address or Transaction Hash can be used to delve into the transactions themselves and perform forensic analysis.
+- **Main Window** Wallet Address or Transaction Hash can be used to delve into the transactions themselves and perform forensic analysis. Features the interface when a wallet is selected.
+![Console View](https://github.com/kwabenayeboah1/Blockchain-Analyser/blob/main/Console%20View.png)
+
+- **Forensic Analysis** Further forensic analysis using the Gemini AI Model on the transaction to determine the nature of the transaction
+![Forensic Analysis](https://github.com/kwabenayeboah1/Blockchain-Analyser/blob/main/Forensic%20Analysis.png)
+
+- **Summary of Analysis** Summary of Analysis that has taken place on the identified transaction
+![Summary of Analysis](https://github.com/kwabenayeboah1/Blockchain-Analyser/blob/main/Summary%20of%20Analysis.png)
+
+- **Console UI** Overall view of the console including the graph interface that contains a depiction of the transaction, its outputs and fees
+![Console UI](https://github.com/kwabenayeboah1/Blockchain-Analyser/blob/main/Console%20UI.png)
 ---
 
 ## 📚 Background & Terminology
