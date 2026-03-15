@@ -77,6 +77,12 @@ Built on Google AI Studio, it requires no local infrastructure — just a Gemini
 
 ---
 
+## 💡 Console Preview
+
+- **Main Window** Wallet Address or Transaction Hash can be used to delve into the transactions themselves and perform forensic analysis.
+
+---
+
 ## 📚 Background & Terminology
 
 A primer on the key concepts underpinning this tool — useful if you're new to Bitcoin or blockchain technology.
